@@ -1,0 +1,86 @@
+[
+  {
+    "file": "images/branding/getpaid-logo-saffron-green-transparent_2172x724.png",
+    "width": 2172,
+    "height": 724,
+    "use": "Header and footer on light backgrounds"
+  },
+  {
+    "file": "images/branding/getpaid-logo-emerald-alternate-transparent_2172x724.png",
+    "width": 2172,
+    "height": 724,
+    "use": "Alternate logo on light backgrounds"
+  },
+  {
+    "file": "images/branding/getpaid-brand-symbol-transparent_1254x1254.png",
+    "width": 1254,
+    "height": 1254,
+    "use": "Favicon source and square brand avatar"
+  },
+  {
+    "file": "images/product/getpaid-dashboard-demo-wide-rectangle_1536x1024.png",
+    "width": 1536,
+    "height": 1024,
+    "use": "Large product section; display about 760\u20131100px wide on desktop"
+  },
+  {
+    "file": "images/product/getpaid-checkout-qr-success-hero-transparent-square_1254x1254.png",
+    "width": 1254,
+    "height": 1254,
+    "use": "Hero right column; display about 420\u2013560px wide"
+  },
+  {
+    "file": "images/reference/getpaid-full-landing-page-design-reference_758x2073.png",
+    "width": 758,
+    "height": 2073,
+    "use": "Design reference only; do not use as the website itself"
+  },
+  {
+    "file": "images/product/getpaid-direct-to-bank-payment-flow-wide_1000x660.svg",
+    "width": 1000,
+    "height": 660,
+    "use": "Feature section beside dashboard"
+  },
+  {
+    "file": "images/product/getpaid-signed-webhook-delivery-card-wide_960x420.svg",
+    "width": 960,
+    "height": 420,
+    "use": "Developer section supporting visual; illustrative payload"
+  },
+  {
+    "file": "images/features/getpaid-feature-dynamic-qr_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  },
+  {
+    "file": "images/features/getpaid-feature-automatic-verification_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  },
+  {
+    "file": "images/features/getpaid-feature-direct-settlement_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  },
+  {
+    "file": "images/features/getpaid-feature-signed-webhooks_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  },
+  {
+    "file": "images/features/getpaid-feature-developer-api_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  },
+  {
+    "file": "images/features/getpaid-feature-multiple-merchants_48x48.svg",
+    "width": 48,
+    "height": 48,
+    "use": "Scalable feature icon; use at 24\u201332 CSS pixels"
+  }
+]

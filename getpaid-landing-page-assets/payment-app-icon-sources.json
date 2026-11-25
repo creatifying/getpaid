@@ -1,0 +1,55 @@
+[
+  {
+    "name": "gpay",
+    "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/Wbik2RoUSGgWEg8ybAhFaMJO2fE7x9gqCXfwbmW0YPjh6TKcjKzecth8GaYkbUBYtLZXhyfVMpqkIuJgTM8p=s0-br30",
+    "bytes": 25076
+  },
+  {
+    "name": "phonepe",
+    "source": "https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/ARGoCZk-5QCKPpyTsGhn1WahhPbVMa95T1U7clwnI8gjtW-YNY96rAANqFkuENbU35IbYF2Gjg2UjZXA495x0A=s0-br30",
+    "bytes": 10050
+  },
+  {
+    "name": "paytm",
+    "source": "https://play.google.com/store/apps/details?id=net.one97.paytm&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/WDGsMRuVENnZPEpV4DEaXw12qtMY3em85xpmZqcXzeh0iT_eXFtAU9VUj-Z7xNQQd5DMqrkKSs9D0qbI1rlt=s0-br30",
+    "bytes": 29552
+  },
+  {
+    "name": "bhim",
+    "source": "https://play.google.com/store/apps/details?id=in.org.npci.upiapp&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/rPJLwugORRZudZYpG6HrP2ejHgdinQzqkKgdPvsoCM5jc_7d507xaYCVUWELWOTu2OEEdwtZNJ7ySq5Mpj2S7DQ=s0-br30",
+    "bytes": 19018
+  },
+  {
+    "name": "cred",
+    "source": "https://play.google.com/store/apps/details?id=com.dreamplug.androidapp&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/PJvM1900ufKia-hc7l7eaU0quGrOm_sx1x_szS_-lA7kRm9sb7gr1cgI8uQMH7tq3n-vnx0SkIUZa19fwz2G=s0-br30",
+    "bytes": 17028
+  },
+  {
+    "name": "whatsapp",
+    "source": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/Gqxk4T0uZsDwFp07DE-508hkyvcNmgFuRwPiwTEfF7D7OzGv1FdHDzEyMxNsSBZLOJlGpe3ULvVM2RgrRAlBqA=s0-br30",
+    "bytes": 18060
+  },
+  {
+    "name": "navi",
+    "source": "https://play.google.com/store/apps/details?id=com.naviapp&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/BOdOvn_BkJFkMewwZ9ONF5eMHkUjQdXMUHJDG1ID46jN8pvjVUehEGX4uHxEcT_JiiREQO7SETDWtR0AX7eEMg=s0-br30",
+    "bytes": 9373
+  },
+  {
+    "name": "super-money",
+    "source": "https://play.google.com/store/apps/details?id=money.super.payments&hl=en_IN",
+    "image": "https://play-lh.googleusercontent.com/v5gYO_GPtymX0TPiRz-oxfytGcxcay58MUrzNcAlVjCwnJashBpfmefmjYOUSMMXgkr6r3-ZzSsD-e-wtcgvJ3I=s0-br30",
+    "bytes": 10030
+  },
+  {
+    "name": "amazon-pay",
+    "source": "https://pay.amazon.com/",
+    "image": "https://dekx1ztr9dy57.cloudfront.net/favicon-32x32.png"
+  }
+]
